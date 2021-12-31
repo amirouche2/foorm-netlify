@@ -1,0 +1,24 @@
+.contact{
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+
+.forma{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.forma input, 
+.forma textarea, 
+.forma button{
+    margin: 0.3rem 0 1rem 0;
+
+} 
+
+.forma button{
+    font-size: 1.2rem;
+}
+
+
